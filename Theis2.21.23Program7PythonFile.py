@@ -1,11 +1,4 @@
-# I certify that the Python program I am submitting is all my own work.
-# None of the code is copied from any source or any person
-# Signed: Dylan Theis, Date: 02/21/2023
 
-# Author: Dylan Theis
-# Date: Spring 2023
-# Class: CSC115
-# Project: Program 7
 # Description: Grandchild Inheritance
 
 import random
